@@ -22,7 +22,6 @@
 
 ## License
 
-![cc](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+[![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
+The work by [cytopia](https://github.com/cytopia) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
