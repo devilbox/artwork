@@ -1,24 +1,16 @@
 # devilbox artwork
 
 
-## Logos
+## Submitted Logos
 
-##### 64x64
+| Updated    | Creator | Logo (height: 64px) | License |
+|------------|---------|---------------------|---------|
+| 2017-10-05 | [cytopia](https://github.com/cytopia) | [![64](submissions/cytopia/01/png/logo_64.png)](submissions/cytopia/01/png/) | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
 
-![64](png/logo_64.png)
 
-##### 128x128
+## Contributing
 
-![128](png/logo_128.png)
-
-##### 256x256
-
-![256](png/logo_256.png)
-
-##### 512x512
-
-![512](png/logo_512.png)
-
+Please see [Contributing](CONTRIBUTING.md) for how to add logo packs.
 
 ## License
 
