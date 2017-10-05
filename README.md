@@ -1,6 +1,15 @@
 # devilbox artwork
 
 
+> The [devilbox](https://github.com/cytopia/devilbox) is a modern and highly customisable LAMP and MEAN stack replacement based purely on docker and docker-compose running on all major platforms. It supports an unlimited number of projects for which vhosts and DNS records are created automatically. Email catch-all and popular development tools will be at your service as well.
+
+**[github](https://github.com/cytopia/devilbox)** | **[homepage](http://devilbox.org)**
+
+
+Here you can find and submit artwork.
+
+---
+
 ## Submitted Logos
 
 | Updated    | Creator | Logo (height: 64px) | License |
