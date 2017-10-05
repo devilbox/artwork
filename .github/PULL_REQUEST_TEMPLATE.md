@@ -1,6 +1,6 @@
 #### Adding new logo
 
-Please see [Contributing](CONTRIBUTING.md) for details.
+Please see [Contributing](https://github.com/devilbox/artwork/blob/master/CONTRIBUTING.md) for details.
 
 Make sure that all steps are done and checked:
 

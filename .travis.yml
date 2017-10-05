@@ -1,0 +1,32 @@
+###
+### Enable sudo (required for docker service)
+###
+sudo: false
+
+
+###
+### Language
+###
+language: python
+
+
+###
+### Build Matrix definition
+###
+env:
+  matrix:
+    - TEST=0
+
+
+###
+### Install
+###
+install:
+  - true
+
+
+###
+### Script
+###
+script:
+  - .ci/start-ci.sh "${TEST}" "${IMAGE}"
