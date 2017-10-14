@@ -15,7 +15,7 @@ CWD="$(cd -P -- "$(dirname -- "$0")" && pwd -P)"
 
 
 # Get all users
-ALL_USERS="$( get_subdirs "${CWD}/../submissions" )"
+ALL_USERS="$( get_subdirs "${CWD}/../submissions_logo" )"
 
 for u in ${ALL_USERS}; do
 
@@ -27,7 +27,7 @@ for u in ${ALL_USERS}; do
 		# Names for pretty output
 		user_base="$( basename "${u}" )"
 		project_base="$( basename "${p}" )"
-		full_path="submissions/${user_base}/${project_base}"
+		full_path="submissions_logo/${user_base}/${project_base}"
 
 		# Check PNG directory exists
 		if [ ! -d "${p}/png" ]; then
@@ -44,7 +44,7 @@ for u in ${ALL_USERS}; do
 			echo "[OK]  Directory present: ${full_path}/raw"
 		fi
 		# Check README
-		regex="^\|\s*[0-9]{4}-[0-9]{2}-[0-9]{2}\s*\|.*${user_base}.*\|.*submissions/${user_base}/${project_base}.*\|.*\|$"
+		regex="^\|\s*[0-9]{4}-[0-9]{2}-[0-9]{2}\s*\|.*${user_base}.*\|.*submissions_logo/${user_base}/${project_base}.*\|.*\|$"
 		if ! grep -E "${regex}" ${CWD}/../README.md >/dev/null 2>&1; then
 			echo "[Err] Wrong line in Logo table in README"
 			run "grep -E '${regex}' ${CWD}/../README.md"
