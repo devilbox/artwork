@@ -12,9 +12,11 @@ Here you can find and submit artwork.
 
 ## Submitted Logos
 
-| Updated    | Creator | Logo (height: 64px) | License |
-|------------|---------|---------------------|---------|
-| 2017-10-05 | [cytopia](https://github.com/cytopia) | [![64](submissions/cytopia/01/png/logo_64.png)](submissions/cytopia/01/png/) | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
+Feel free to use and modify any of the following logos by obeying the stated license.
+
+| Updated    | Creator | Logo | Banner | License |
+|------------|---------|------|--------|---------|
+| 2017-10-14 | [cytopia](https://github.com/cytopia) | [![64](submissions/cytopia/01/png/logo_64.png)](submissions/cytopia/01/png/) | [![64](submissions/cytopia/01/png/banner_64.png)](submissions/cytopia/01/png/) | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 
 ## Contributing
