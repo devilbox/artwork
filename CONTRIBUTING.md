@@ -3,7 +3,8 @@
 ### What is required?
 
 * Raw logo file
-* Logos in png format in different sizes (256x256, 128x128, 64x64 and optionally others)
+* Logos in png format in different sizes (512x512, 256x256, 128x128, 64x64 and optionally others)
+* Each logo in two flavours: with transparent and opaque background
 
 ### First time contributer
 
@@ -15,9 +16,9 @@
 # 3. Add 64x64 pixel image for preview with link to the png folder
 # 4. Add your license (see below to pick from templates and replace that into the colum)
 
-| Updated    | Creator | Logo (height: 64px) | License |
-|------------|---------|---------------------|---------|
-| yyyy-mm-dd | [GITHUB_NAME](https://github.com/NAME) | [![64])(submissions/<GITHUB_NAME>/01/png/logo_64-64.png)](submissions/<GITHUB_NAME>/01/png) | [![cc](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) |
+| Updated    | Creator | Opaque | Transparent | License |
+|------------|---------|--------|-------------|---------|
+| yyyy-mm-dd | [GITHUB_NAME](https://github.com/NAME) | [![64])(submissions_logo/<GITHUB_NAME>/01/png/logo_64.png)](submissions_logo/<GITHUB_NAME>/01/png) | [![64])(submissions_logo/<GITHUB_NAME>/01/png/logo_64_trans.png)](submissions_logo/<GITHUB_NAME>/01/png) | [![cc](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) |
 ```
 
 ### Existing contributer
