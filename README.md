@@ -52,6 +52,12 @@ Feel free to use and modify any of the following banners by obeying the stated l
   <tr>
    <td width="110" style="width:110px;">2019-02-27</td>
    <td><a href="https://github.com/cytopia">cytopia</a></td>
+   <td><a href="submissions_diagrams/cytopia/01.old/svg/architecture-full.svg"><img src="submissions_diagrams/cytopia/01.old/svg/architecture-full.svg" /></a></td>
+   <td><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></td>
+  </tr>
+  <tr>
+   <td width="110" style="width:110px;">2019-03-06</td>
+   <td><a href="https://github.com/cytopia">cytopia</a></td>
    <td><a href="submissions_diagrams/cytopia/01/svg/architecture-full.svg"><img src="submissions_diagrams/cytopia/01/svg/architecture-full.svg" /></a></td>
    <td><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></td>
   </tr>
