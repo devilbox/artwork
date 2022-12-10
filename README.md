@@ -26,12 +26,13 @@ Feel free to use and modify any of the following logos by obeying the stated lic
 
 Feel free to use and modify any of the following banners by obeying the stated license.
 
-| Updated    | Creator | Banner | License |
-|------------|---------|--------|---------|
-| 2017-10-14 | [maifz](https://github.com/maifz)     | [![64](submissions_banner/cytopia/01/png/banner_64.png)](submissions_banner/cytopia/01/png/) | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
-| 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/02/png/banner_64.png)](submissions_banner/cytopia/02/png/) | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
-| 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/03/png/banner_64.png)](submissions_banner/cytopia/03/png/) | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
-| 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/04/png/banner_64.png)](submissions_banner/cytopia/04/png/) | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| Updated    | Creator | Banner | Project | License |
+|------------|---------|--------|:-------:|---------|
+| 2017-10-14 | [maifz](https://github.com/maifz)     | [![64](submissions_banner/cytopia/01/png/banner_64.png)](submissions_banner/cytopia/01/png/) | **[Devilbox](https://github.com/cytopia/devilbox)** | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/02/png/banner_64.png)](submissions_banner/cytopia/02/png/) | Devilbox<br/>**[PHP-FPM](https://github.com/devilbox/docker-php-fpm)** | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/03/png/banner_64.png)](submissions_banner/cytopia/03/png/) | Devilbox<br/>**[PHP-FPM-Community](https://github.com/devilbox/docker-php-fpm-community)** | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/04/png/banner_64.png)](submissions_banner/cytopia/04/png/) | Devilbox<br/>**[MySQL](https://github.com/devilbox/docker-mysql)** | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/05/png/banner_64.png)](submissions_banner/cytopia/05/png/) | Devilbox<br/> **Web Server** | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 
 ## Submitted Diagrams
