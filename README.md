@@ -33,6 +33,7 @@ Feel free to use and modify any of the following banners by obeying the stated l
 | 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/03/png/banner_64.png)](submissions_banner/cytopia/03/png/) | Devilbox<br/>**[PHP-FPM-Community](https://github.com/devilbox/docker-php-fpm-community)** | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
 | 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/04/png/banner_64.png)](submissions_banner/cytopia/04/png/) | Devilbox<br/>**[MySQL](https://github.com/devilbox/docker-mysql)** | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
 | 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/05/png/banner_64.png)](submissions_banner/cytopia/05/png/) | Devilbox<br/> **Web Server** | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 2022-12-10 | [cytopia](https://github.com/cytopia) | [![64](submissions_banner/cytopia/06/png/banner_64.png)](submissions_banner/cytopia/06/png/) | Devilbox<br/> **[DNS Server](https://github.com/cytopia/docker-bind)** | [![cc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 
 ## Submitted Diagrams
